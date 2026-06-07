@@ -67,10 +67,10 @@ do
     { FontColor = "ccffff", MainColor = "0d1818", AccentColor = "00e5e5", BackgroundColor = "060d0d", OutlineColor = "66ffff" },
 },
 
-["深海青"] = {
-    1,
-    { FontColor = "99dddd", MainColor = "0c1919", AccentColor = "009999", BackgroundColor = "060d0d", OutlineColor = "00cccc" },
-},
+        ["Default"] = {
+            1,
+            { FontColor = "ffffff", MainColor = "191919", AccentColor = "00FFFF", BackgroundColor = "0f0f0f", OutlineColor = "282828" },
+        },
         ["BBot"] = {
             2,
             { FontColor = "ffffff", MainColor = "1e1e1e", AccentColor = "7e48a3", BackgroundColor = "232323", OutlineColor = "141414" },
