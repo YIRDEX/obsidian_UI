@@ -47,25 +47,6 @@ do
     ThemeManager.Library = nil
     ThemeManager.AppliedToTab = false
     ThemeManager.BuiltInThemes = {
-["亮青"] = {
-    1,
-    { FontColor = "e0ffff", MainColor = "0a1a1a", AccentColor = "00cccc", BackgroundColor = "050f0f", OutlineColor = "00ffff" },
-},
-
-["霓虹青"] = {
-    1,
-    { FontColor = "ffffff", MainColor = "0a1212", AccentColor = "00ffff", BackgroundColor = "050a0a", OutlineColor = "33ffff" },
-},
-
-["暗青"] = {
-    1,
-    { FontColor = "b3e6e6", MainColor = "0f1a1a", AccentColor = "008080", BackgroundColor = "080f0f", OutlineColor = "00b3b3" },
-},
-
-["青冰"] = {
-    1,
-    { FontColor = "ccffff", MainColor = "0d1818", AccentColor = "00e5e5", BackgroundColor = "060d0d", OutlineColor = "66ffff" },
-},
 
         ["Default"] = {
             1,
